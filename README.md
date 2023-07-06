@@ -18,5 +18,6 @@
     >
       github.com/DaveKT
     </a>
+    <a rel="me" href="https://woolly.monster/@dave">Mastodon</a>
   </body>
 </html>

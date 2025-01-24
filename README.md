@@ -4,6 +4,6 @@
     <title>Verification</title>
   </head>
   <body>
-    <a rel="me" href="https://wooly.monster/@dave">Mastodon</a>
+    <a rel="me" href="https://woolly.monster/@dave">Mastodon</a>
   </body>
 </html>

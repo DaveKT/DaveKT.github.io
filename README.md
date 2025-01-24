@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <meta http-equiv="refresh" content="0; URL=https://github.com/DaveKT">
-   <a rel="me" href="https://woolly.monster/@dave">Mastodon</a>
+    <meta charset="utf-8" />
+    <title>Redirecting to github.com/davekt/</title>
+    <meta http-equiv="refresh" content="0; URL=https://github.com/DaveKT">
+    <link href="https://github.com/simonw" rel="me">
+    <link href="https://woolly.monster/@dave" rel="me">
   </head>
   <body style="margin: 0; padding: 0">
     <a
-      href="https://github.com/DaveKT"
+      href="https://github.com/davekt"
       style="
         display: block;
         height: 100vh;
@@ -16,8 +19,7 @@
         color: white;
       "
     >
-      github.com/DaveKT
+      github.com/davekt
     </a>
-    
   </body>
 </html>

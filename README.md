@@ -2,7 +2,7 @@
 <html>
   <head>
    <meta http-equiv="refresh" content="0; URL=https://github.com/DaveKT">
-   <link href="https://woolly.monster/@dave" rel="me">
+   <a rel="me" href="https://woolly.monster/@dave">Mastodon</a>
   </head>
   <body style="margin: 0; padding: 0">
     <a
@@ -18,6 +18,6 @@
     >
       github.com/DaveKT
     </a>
-    <a rel="me" href="https://woolly.monster/@dave">Mastodon</a>
+    
   </body>
 </html>
